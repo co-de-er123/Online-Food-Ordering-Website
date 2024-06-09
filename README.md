@@ -43,8 +43,10 @@ Admin Control Panel:
 
 
 
-Sdmin Category Updation Page:
+
+Admin Category Updation Page:
 ![6_java](https://github.com/co-de-er123/Online-Food-Ordering-Website/assets/100010797/5233992b-d609-4b9c-bf15-b8e98b3bcb82)
+
 
 
 

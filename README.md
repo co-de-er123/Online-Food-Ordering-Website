@@ -12,3 +12,27 @@ Moreover, manual ordering systems are susceptible to errors and miscommunication
 The solution to these challenges is the development of an online food ordering system that offers customers a seamless and efficient way to place orders while empowering restaurants to manage orders more effectively. This system should provide a user-friendly interface for customers to browse menus, customize orders, and make payments online. Additionally, it should offer features such as order tracking, real-time notifications, and feedback mechanisms to enhance the overall ordering experience.
 By transitioning to an online food ordering system, restaurants can streamline their operations, reduce errors, and better meet the needs of today's tech-savvy consumers. This not only improves customer satisfaction but also increases operational efficiency and revenue potential for food establishments.
 
+# Results:
+
+![1_java](https://github.com/co-de-er123/Online-Food-Ordering-Website/assets/100010797/9783c589-de86-4a4c-b0c2-4ed09f4e12c1)
+
+
+![2_java](https://github.com/co-de-er123/Online-Food-Ordering-Website/assets/100010797/313cc844-846a-4b0e-9820-c5eb524d6a88)
+
+
+![3_java](https://github.com/co-de-er123/Online-Food-Ordering-Website/assets/100010797/4e8450fa-9f7f-4ad5-9650-daa4cfe76920)
+
+
+![4_java](https://github.com/co-de-er123/Online-Food-Ordering-Website/assets/100010797/d8ea55fa-81a5-48c0-9e94-89dc1dc61a0f)
+
+![5_java](https://github.com/co-de-er123/Online-Food-Ordering-Website/assets/100010797/422f9b58-050c-4b7f-9d68-c78b4d8e2f54)
+
+
+![6_java](https://github.com/co-de-er123/Online-Food-Ordering-Website/assets/100010797/5233992b-d609-4b9c-bf15-b8e98b3bcb82)
+
+
+![7_java](https://github.com/co-de-er123/Online-Food-Ordering-Website/assets/100010797/732644e5-57fa-4b7e-b945-4aff6b61933c)
+
+
+
+

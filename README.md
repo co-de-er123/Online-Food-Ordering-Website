@@ -13,24 +13,43 @@ The solution to these challenges is the development of an online food ordering s
 By transitioning to an online food ordering system, restaurants can streamline their operations, reduce errors, and better meet the needs of today's tech-savvy consumers. This not only improves customer satisfaction but also increases operational efficiency and revenue potential for food establishments.
 
 # Results:
+User Login Page:
 
 ![1_java](https://github.com/co-de-er123/Online-Food-Ordering-Website/assets/100010797/9783c589-de86-4a4c-b0c2-4ed09f4e12c1)
 
 
+
+Home Page:
 ![2_java](https://github.com/co-de-er123/Online-Food-Ordering-Website/assets/100010797/313cc844-846a-4b0e-9820-c5eb524d6a88)
 
 
+
+
+Order Cart:
 ![3_java](https://github.com/co-de-er123/Online-Food-Ordering-Website/assets/100010797/4e8450fa-9f7f-4ad5-9650-daa4cfe76920)
 
 
+
+
+Paypal Payment Gateway:
 ![4_java](https://github.com/co-de-er123/Online-Food-Ordering-Website/assets/100010797/d8ea55fa-81a5-48c0-9e94-89dc1dc61a0f)
 
+
+
+
+Admin Control Panel:
 ![5_java](https://github.com/co-de-er123/Online-Food-Ordering-Website/assets/100010797/422f9b58-050c-4b7f-9d68-c78b4d8e2f54)
 
 
+
+
+Sdmin Category Updation Page:
 ![6_java](https://github.com/co-de-er123/Online-Food-Ordering-Website/assets/100010797/5233992b-d609-4b9c-bf15-b8e98b3bcb82)
 
 
+
+
+Users of the System:
 ![7_java](https://github.com/co-de-er123/Online-Food-Ordering-Website/assets/100010797/732644e5-57fa-4b7e-b945-4aff6b61933c)
 
 
